@@ -1,0 +1,21 @@
+body {
+    overflow:hidden;
+    margin:0;
+}
+
+.container {
+    background-color:rgb(73, 73, 73);
+    height:100vh;
+    margin:auto;
+    display:flex;
+    align-items:flex-start;
+    justify-content:flex-start;
+}
+
+.inner-box {
+    background-color:rgb(43, 43, 43);
+    height:500px;
+    width:350px;
+    margin:20px 0px 0px 20px;
+    border-radius:2%;
+}
